@@ -7,11 +7,11 @@ Hier protokollieren wir unser Projekt für das Modul DIS25 - Natural Language Pr
 
 # How to get it going:
 
-In order to solve the given task and perform an analysis for the [final term paper](An_analysis_about_the_ethnic_stereotypes_within_the_plenary_records_of_the_German_Bundestag_from_1983_2021_.pdf), we created a Jupyter notebook in Google Colab. This notebook contains all processes that have been implemented entirely in Google Colab. We therefore recommend running the notebook within Google Colab and downloading the necessary files (which are located on [Sciebo]()), unzipping them and saving them to Google Drive considering the appropriate file path.
+In order to solve the given task and perform an analysis for the [final term paper](An_analysis_about_the_ethnic_stereotypes_within_the_plenary_records_of_the_German_Bundestag_from_1983_2021_.pdf), we created a Jupyter notebook in Google Colab. This notebook contains all processes that have been implemented entirely in Google Colab. We therefore recommend running the notebook within Google Colab and downloading the necessary files (which are located on [Sciebo](https://th-koeln.sciebo.de/s/DKnDgSGK0SARBaB)), unzipping them and saving them to Google Drive considering the appropriate file path.
 
 # Necessary Data
 
-Download files from [Sciebo](https://)
+Download files from [Sciebo](https://th-koeln.sciebo.de/s/DKnDgSGK0SARBaB) (Password: THKöln).
 
 # License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
